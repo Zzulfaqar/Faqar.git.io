@@ -1,5 +1,16 @@
-title:
-# logo:
-# description:
-# show_downloads: true
-theme: 
+title: Your Faqar
+description: Your website description.
+base_url: / (Optional, if your website is not at the root of your repository)
+url: https://your-username.github.io/ (Replace with your actual GitHub username)
+theme: jekyll-theme-minimal (Change this to your chosen theme, see below)
+
+collections:
+  pages:
+    output: true
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Additional configurations specific to your theme
+

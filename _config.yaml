@@ -2,7 +2,10 @@ title: Your Name - Future-Ready Professional
 description: Showcasing your skills and experience in a cutting-edge way.
 # base_url: / (Optional, if your website is not at the root of your repository)
 url: https://your-username.github.io/ (Replace with your actual GitHub username)
-theme: jekyll-theme-futurecraft
+
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
 
 collections:
   pages:

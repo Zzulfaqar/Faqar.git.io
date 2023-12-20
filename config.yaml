@@ -1,8 +1,8 @@
-title: Your Faqar
-description: Your website description.
+title: Your Name - Future-Ready Professional
+description: Showcasing your skills and experience in a cutting-edge way.
 base_url: / (Optional, if your website is not at the root of your repository)
 url: https://your-username.github.io/ (Replace with your actual GitHub username)
-theme: jekyll-theme-minimal (Change this to your chosen theme, see below)
+theme: jekyll-theme-futurecraft (Change this to your chosen theme)
 
 collections:
   pages:
@@ -11,6 +11,7 @@ collections:
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-assets 
 
-# Additional configurations specific to your theme
+# Additional configurations specific to your chosen theme
 

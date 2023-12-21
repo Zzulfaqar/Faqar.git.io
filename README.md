@@ -5,8 +5,8 @@ As a recent graduate of National Defence University Malaysia, I am passionate ab
 
 ## Skillset
 ### Programming Languange
-![Java](https://img.shields.io/badge/Java-Intermediate-orange)
-:computer: Java, Javascript, Shellscript, Linux utilities, Go language.
+(https://img.shields.io/badge/Java-Intermediate-orange), (https://img.shields.io/badge/Javascript-Beginner-ADD8E6), (https://img.shields.io/badge/Shellscript-Beginner-ADD8E6), (https://img.shields.io/badge/Linux Utilities-Beginner-ADD8E6), (https://img.shields.io/badge/Go language-Beginner-ADD8E6)
+
 
 
 ### Analytical Acumen

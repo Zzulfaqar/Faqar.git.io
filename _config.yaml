@@ -1,19 +1,25 @@
+# Configuration file for Jekyll
+
+# Website metadata
 title: Your Name - Future-Ready Professional
 description: Showcasing your skills and experience in a cutting-edge way.
-# base_url: / (Optional, if your website is not at the root of your repository)
-url: https://your-username.github.io/ (Replace with your actual GitHub username)
+url: "https://your-username.github.io"  # Replace with your actual GitHub username
 
+# Jekyll settings
 theme: jekyll-theme-minimal
 title: Muhd Zulfaqar
 description: Bookmark this to keep an eye on my project updates!
+baseurl: ""  # Set to empty since your website is hosted at the root of the repository
 
+# Collections
 collections:
   pages:
     output: true
 
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-assets 
+  - jekyll-assets
 
 # Additional configurations specific to your chosen theme

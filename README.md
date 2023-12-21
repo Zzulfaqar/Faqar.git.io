@@ -1,19 +1,16 @@
-# mUHAMMAD ZULFAQAR's Portfolio
+# Faqar Portfolio
 
 ## Introduction
 As a recent graduate of National Defence University Malaysia, I am passionate about involving into the cybersecurity field, exploring the defensive and the offensive security.
 
 ## Skillset
 ### Programming Languange
-Java, Javascript, Shellscript, Linux utilities, Go language.
+![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+:computer: Java, Javascript, Shellscript, Linux utilities, Go language.
+
 
 ### Analytical Acumen
 My mind thrives on problem-solving, meticulously sifting through data and dissecting complex threats to unravel their intricate layers.
-
-### Network 
-Fundamentally understand 2 network TCP/IP and OSI Layer model
--TCP/IP     :
--OSI Layer  :
 
 
 ### Adaptability Arsenal
@@ -27,9 +24,11 @@ Assissting senior ISMS create and review client ISO 27001 documentation (Support
 Involve in Cybersecurity Awareness project for client, create poster, banner and brainstorming idea for cybersecurity awareness talk
 
 ### MIMOS BHD (Trainee)
-During my internship at MIMOS BHD, I introduced with Blockchain Hyperledger Fabric framework. Initially assisting research officer doing performance testing, involve in implementing grafana in performance testing enhancing performance testing tools.
-Contribute assisting senior research officer doing production backup server script
-Draft a new hashing function of file content to add into the blockchain database
+	• Explore Hyperledger Fabric blockchain framework
+	• Assist research officer doing performance testing
+	• Involve implementing grafana in performance testing
+	• Contribute assist senior researcher review production backup server script
+	• Draf a new hashing function to hash content of the file and added into blockchain
 
 ### Final Year Project
 Browser Opening Monitoring System in Computer Lab.
@@ -40,9 +39,9 @@ Browser Opening Monitoring System in Computer Lab.
 
 
 ### Awards/Achievements
--Defence Security and Sustainability Exhibition, Presenting Final Year Project won bronze medal
--I2Create Competition Inovation -Universiti Malaysia Perlis (UNIMAP) won silver category
--PPKomp Programming Competition won silver category
+-   **Defence Security and Sustainability Exhibition, Presenting Final Year Project won bronze medal**
+-   I2Create Competition Inovation -Universiti Malaysia Perlis (UNIMAP) won silver category
+-   PPKomp Programming Competition won silver category
 
 ## Ongoing Endeavors (Optional)
 Doing free online course at cisco skills for all
@@ -53,4 +52,5 @@ exploring open source tools, Wazuh and Velociraptor
 This website is a mere stepping stone on my path to becoming a formidable cyber defender. I invite you to delve deeper, explore my skills, and witness the burgeoning potential I bring to the table. Let's embark on a collaborative journey, forging a future where digital security stands strong against the ever-evolving tides of cyber threats.
 
 ## Contact
-Reach out via MZULFA1212@gmail.com or connect with me on https://www.linkedin.com/in/mzulfaqar/.
+Reach out via [Email](mailto:MZULFA1212@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mzulfaqar/).
+

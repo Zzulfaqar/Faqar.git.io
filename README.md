@@ -5,7 +5,12 @@ As a recent graduate of National Defence University Malaysia, I am passionate ab
 
 ## Skillset
 ### Programming Languange
-(https://img.shields.io/badge/Java-Intermediate-orange), (https://img.shields.io/badge/Javascript-Beginner-ADD8E6), (https://img.shields.io/badge/Shellscript-Beginner-ADD8E6), (https://img.shields.io/badge/Linux Utilities-Beginner-ADD8E6), (https://img.shields.io/badge/Go language-Beginner-ADD8E6)
+- ![Java](https://img.shields.io/badge/Java-Intermediate-orange): Intermediate proficiency in Java.
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-ADD8E6): Beginner-level proficiency in JavaScript.
+- ![Shellscript](https://img.shields.io/badge/Shellscript-Beginner-ADD8E6): Beginner-level proficiency in Shellscript.
+- ![Linux Utilities](https://img.shields.io/badge/Linux%20Utilities-Beginner-ADD8E6): Beginner-level proficiency in Linux Utilities.
+- ![Go language](https://img.shields.io/badge/Go%20language-Beginner-ADD8E6): Beginner-level proficiency in the Go language.
+
 
 
 

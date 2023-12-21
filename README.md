@@ -1,4 +1,4 @@
-# Faqar Portfolio test SCRKIP 23
+# Faqar Portfolio
 
 ## Introduction
 Greetings! I am a recent graduate from National Defence University Malaysia with a fervent interest in the dynamic field of cybersecurity. My enthusiasm extends across both defensive and offensive security realms, and I am eager to contribute my skills and knowledge to this ever-evolving domain.

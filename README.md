@@ -1,39 +1,56 @@
 # [Your Name]'s Portfolio
 
 ## Introduction
-As a recent graduate of [Your University], I am passionate about exploring the digital frontier and securing its landscapes. This website serves as a portal showcasing my technical expertise and potential within the dynamic world of cybersecurity.
+As a recent graduate of National Defence University Malaysia, I am passionate about involving into the cybersecurity field, exploring the defensive and the offensive security.
 
 ## Skillset
-### Programming Prowess
-Fluent in [List your programming languages], I wield code as a weapon of defense, crafting secure applications and dissecting vulnerabilities with surgical precision.
+### Programming Languange
+Java, Javascript, Shellscript, Linux utilities, Go language.
 
 ### Analytical Acumen
 My mind thrives on problem-solving, meticulously sifting through data and dissecting complex threats to unravel their intricate layers.
 
-### Network Savvy
-From firewalls to protocols, I navigate the labyrinthine world of networks with confidence, ensuring their resilience against malicious incursions.
+### Network 
+Fundamentally understand 2 network TCP/IP and OSI Layer model
+-TCP/IP     :
+-OSI Layer  :
 
-### Cryptography Champion
-Mastering the art of encryption and decryption, I safeguard sensitive information and uphold the pillars of digital trust.
 
 ### Adaptability Arsenal
 In the ever-shifting landscape of cybersecurity, agility is paramount. I embrace new technologies with gusto, continuously expanding my skillset to stay ahead of the curve.
 
 ## Experience
-### [Name of Project/Course]
-This project saw me [Briefly describe your project/course and your role/achievement, highlighting how it honed your skills].
+### DIASPORA SDN BHD (On job training -Security Analyst)
+Involve in Security Posture Assessment Excercise.
+Contribute create and review internal ISMS referring ISO 27001(2022) documentation
+Assissting senior ISMS create and review client ISO 27001 documentation (Support and Maintenance)
+Involve in Cybersecurity Awareness project for client, create poster, banner and brainstorming idea for cybersecurity awareness talk
 
-### [Name of Internship/Experience]
-During my internship at [Company Name], I [Briefly describe your responsibilities and key takeaways, showcasing practical application of your skills].
+### MIMOS BHD (Trainee)
+During my internship at MIMOS BHD, I introduced with Blockchain Hyperledger Fabric framework. Initially assisting research officer doing performance testing, involve in implementing grafana in performance testing enhancing performance testing tools.
+Contribute assisting senior research officer doing production backup server script
+Draft a new hashing function of file content to add into the blockchain database
+
+### Final Year Project
+Browser Opening Monitoring System in Computer Lab.
+-   Monitor activity of opening browser in computer lab
+-   Able to terminate browser activity
+-   Identify which computer are using the browser
+-   Use during the quiz or exam in computer lab that require no Internet access
+
 
 ### Awards/Achievements
-[List any relevant awards or achievements that demonstrate your dedication to the field].
+-Defence Security and Sustainability Exhibition, Presenting Final Year Project won bronze medal
+-I2Create Competition Inovation -Universiti Malaysia Perlis (UNIMAP) won silver category
+-PPKomp Programming Competition won silver category
 
 ## Ongoing Endeavors (Optional)
-[You can add this section if you have ongoing projects or research.]
+Doing free online course at cisco skills for all
+exploring next.js framework and web development
+exploring open source tools, Wazuh and Velociraptor
 
 ## A Bridge Across the Digital Divide
 This website is a mere stepping stone on my path to becoming a formidable cyber defender. I invite you to delve deeper, explore my skills, and witness the burgeoning potential I bring to the table. Let's embark on a collaborative journey, forging a future where digital security stands strong against the ever-evolving tides of cyber threats.
 
 ## Contact
-Reach out via [Your Email Address] or connect with me on [Your LinkedIn Profile Link].
+Reach out via MZULFA1212@gmail.com or connect with me on https://www.linkedin.com/in/mzulfaqar/.

@@ -5,11 +5,11 @@ Greetings! I am a recent graduate from National Defence University Malaysia with
 
 ## Skillset
 ### Programming Languages
-- ![Java](https://img.shields.io/badge/Java-Intermediate-orange): Proficient in Java.
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-ADD8E6): Embarking on the journey of JavaScript.
-- ![Shellscript](https://img.shields.io/badge/Shellscript-Beginner-ADD8E6): Exploring the world of Shellscript.
-- ![Linux Utilities](https://img.shields.io/badge/Linux%20Utilities-Beginner-ADD8E6): Navigating through Linux Utilities.
-- ![Go language](https://img.shields.io/badge/Go%20language-Beginner-ADD8E6): Venturing into the realms of Go language.
+- ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-ADD8E6)
+- ![Shellscript](https://img.shields.io/badge/Shellscript-Beginner-ADD8E6)
+- ![Linux Utilities](https://img.shields.io/badge/Linux%20Utilities-Beginner-ADD8E6)
+- ![Go language](https://img.shields.io/badge/Go%20language-Beginner-ADD8E6)
 
 ### Analytical Acumen
 My mind thrives on problem-solving, meticulously sifting through data, and dissecting complex threats to unravel their intricate layers.

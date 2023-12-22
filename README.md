@@ -1,7 +1,7 @@
 # Faqar Portfolio
 
 ## Introduction
-Greetings! I am a recent graduate from National Defence University Malaysia with a fervent interest in the dynamic field of cybersecurity. My enthusiasm extends across both defensive and offensive security realms, and I am eager to contribute my skills and knowledge to this ever-evolving domain.
+Greetings! I am a recent graduate from National Defence University Malaysia with interest in the cybersecurity field. My enthusiasm extends across both defensive and offensive security. I am eager to contribute my skills and knowledge.
 
 ## Skillset
 ### Programming Languages
@@ -14,8 +14,6 @@ Greetings! I am a recent graduate from National Defence University Malaysia with
 ### Analytical Acumen
 My mind thrives on problem-solving, meticulously sifting through data, and dissecting complex threats to unravel their intricate layers.
 
-### Adaptability Arsenal
-In the ever-shifting landscape of cybersecurity, agility is paramount. I embrace new technologies with gusto, continuously expanding my skillset to stay ahead of the curve.
 
 ## Experience
 ### DIASPORA SDN BHD (On-the-job training - Security Analyst)
@@ -30,6 +28,11 @@ In the ever-shifting landscape of cybersecurity, agility is paramount. I embrace
 - Involved in implementing Grafana in performance testing.
 - Contributed to assisting senior researchers in reviewing production backup server scripts.
 - Drafted a new hashing function to hash the content of the file and added it to the blockchain.
+
+### Other Activities
+- Work part-time as cashier & customer service as Cold Storage Alamanda (2018-2022)
+- Work part-time as promoter and event crew
+- Join multiple program as volunteer with GO and NGO such as ISMA and KBS 
 
 ### Final Year Project
 Browser Opening Monitoring System in the Computer Lab:
@@ -49,7 +52,7 @@ Browser Opening Monitoring System in the Computer Lab:
 - Exploring open-source tools, Wazuh, and Velociraptor.
 
 ## A Bridge Across the Digital Divide
-This website serves as a stepping stone on my journey to becoming a formidable cyber defender. I invite you to delve deeper, explore my skills, and witness the burgeoning potential I bring to the table. Let's embark on a collaborative journey, forging a future where digital security stands strong against the ever-evolving tides of cyber threats.
+This website serves as a stepping stone on my journey to becoming a formidable cyber defender. wittness the potential I bring to the table.
 
 ## Contact
 Reach out via email [mzulfa1212@gmail.com](mailto:MZULFA1212@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mzulfaqar/){:target="_blank"}.

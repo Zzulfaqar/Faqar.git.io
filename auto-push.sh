@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#code are from https://www.linkedin.com/in/mzulfaqar/
 git config core.autocrlf false
 
 # Check if log.txt exists and read the current number

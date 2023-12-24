@@ -46,7 +46,7 @@ Browser Opening Monitoring System in the Computer Lab:
 - **I2Create Competition Innovation - Universiti Malaysia Perlis (UNIMAP):** Secured a silver category award.
 - **PPKomp Programming Competition:** Achieved a silver category award.
 
-## Ongoing Endeavors (Optional)
+## Free Time Activities
 - Engaging in a free online course at Cisco Skills for All.
 - Exploring the Next.js framework and web development.
 - Exploring open-source tools, Wazuh, and Velociraptor.
